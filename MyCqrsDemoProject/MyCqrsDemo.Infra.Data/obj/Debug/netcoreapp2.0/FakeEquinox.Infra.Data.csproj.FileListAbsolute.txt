@@ -1,0 +1,14 @@
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.deps.json
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.csprojResolveAssemblyReference.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.csproj.CoreCompileInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.AssemblyInfoInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.AssemblyInfo.cs
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.csproj.CopyComplete
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\FakeEquinox.Infra.Data.pdb

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Infra.Data", "FakeEquinox.Infra.Data\MyCqrsDemo.Infra.Data.csproj", "{3A2A420F-619C-4212-90C2-40303C841203}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Domain", "FakeEquinox.Domain\MyCqrsDemo.Domain.csproj", "{CBE844B6-A7A6-41E3-834C-3B9D5A033155}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Domain.Core", "FakeEquinox.Domain.Core\MyCqrsDemo.Domain.Core.csproj", "{3FA74678-A58E-4A67-9F3E-A41EA7E252AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Application", "FakeEquinox.Application\MyCqrsDemo.Application.csproj", "{D56D1C23-EA87-48F2-9B0C-9D9FC7EAFF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCqrsDemo.WebApi", "MyCqrsDemo.WebApi\MyCqrsDemo.WebApi.csproj", "{74ED8B18-9480-4E55-9877-18B6EDD692F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{C1A8765C-979C-474B-A04C-631C3636F066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCqrs.Infra.CrossCutting.Bus", "MyCqrs.Infra.CrossCutting.Bus\MyCqrs.Infra.CrossCutting.Bus.csproj", "{E923DA8C-B4DF-439A-A133-ED71BC0093F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2A420F-619C-4212-90C2-40303C841203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2A420F-619C-4212-90C2-40303C841203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2A420F-619C-4212-90C2-40303C841203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2A420F-619C-4212-90C2-40303C841203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE844B6-A7A6-41E3-834C-3B9D5A033155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE844B6-A7A6-41E3-834C-3B9D5A033155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE844B6-A7A6-41E3-834C-3B9D5A033155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE844B6-A7A6-41E3-834C-3B9D5A033155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA74678-A58E-4A67-9F3E-A41EA7E252AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA74678-A58E-4A67-9F3E-A41EA7E252AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA74678-A58E-4A67-9F3E-A41EA7E252AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA74678-A58E-4A67-9F3E-A41EA7E252AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56D1C23-EA87-48F2-9B0C-9D9FC7EAFF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56D1C23-EA87-48F2-9B0C-9D9FC7EAFF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56D1C23-EA87-48F2-9B0C-9D9FC7EAFF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56D1C23-EA87-48F2-9B0C-9D9FC7EAFF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74ED8B18-9480-4E55-9877-18B6EDD692F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ED8B18-9480-4E55-9877-18B6EDD692F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ED8B18-9480-4E55-9877-18B6EDD692F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ED8B18-9480-4E55-9877-18B6EDD692F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E923DA8C-B4DF-439A-A133-ED71BC0093F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E923DA8C-B4DF-439A-A133-ED71BC0093F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E923DA8C-B4DF-439A-A133-ED71BC0093F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E923DA8C-B4DF-439A-A133-ED71BC0093F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E923DA8C-B4DF-439A-A133-ED71BC0093F0} = {C1A8765C-979C-474B-A04C-631C3636F066}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D66EC07-50FF-4DA0-B0CC-14AF0F0C0A94}
+	EndGlobalSection
+EndGlobal

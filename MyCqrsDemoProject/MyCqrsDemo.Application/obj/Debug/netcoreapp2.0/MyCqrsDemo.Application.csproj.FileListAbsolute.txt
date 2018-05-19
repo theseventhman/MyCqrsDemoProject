@@ -1,0 +1,6 @@
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Application.deps.json
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Application.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csprojResolveAssemblyReference.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csproj.CoreCompileInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfoInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfo.cs

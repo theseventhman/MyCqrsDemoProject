@@ -1,0 +1,9 @@
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.deps.json
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\bin\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.csprojResolveAssemblyReference.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.csproj.CoreCompileInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.AssemblyInfoInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.AssemblyInfo.cs
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\FakeEquinox.Domain.Core.pdb

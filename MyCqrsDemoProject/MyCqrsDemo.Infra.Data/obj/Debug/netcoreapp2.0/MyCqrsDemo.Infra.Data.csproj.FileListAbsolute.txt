@@ -1,0 +1,14 @@
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.deps.json
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csprojResolveAssemblyReference.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csproj.CoreCompileInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.AssemblyInfoInputs.cache
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.AssemblyInfo.cs
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csproj.CopyComplete
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.dll
+D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.pdb
