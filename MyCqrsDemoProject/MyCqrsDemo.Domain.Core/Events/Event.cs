@@ -6,6 +6,7 @@ namespace MyCqrsDemo.Domain.Core.Events
     {
        public DateTime Timestamp { get; private set; }
 
+
         protected Event()
         {
             Timestamp = DateTime.Now;
