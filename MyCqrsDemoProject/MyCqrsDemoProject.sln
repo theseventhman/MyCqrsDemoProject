@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Domain.Core", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCqrsDemo.Infra.Data", "MyCqrsDemo.Infra.Data\MyCqrsDemo.Infra.Data.csproj", "{417099E6-C799-472A-BAD2-6E0F9FDCE85A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCqrs.Infra.CrossCutting.Ioc", "MyCqrs.Infra.CrossCutting.Ioc\MyCqrs.Infra.CrossCutting.Ioc.csproj", "{9F01C020-EC33-4DDD-9856-36611BBBEA2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,12 +49,17 @@ Global
 		{417099E6-C799-472A-BAD2-6E0F9FDCE85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417099E6-C799-472A-BAD2-6E0F9FDCE85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417099E6-C799-472A-BAD2-6E0F9FDCE85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F01C020-EC33-4DDD-9856-36611BBBEA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F01C020-EC33-4DDD-9856-36611BBBEA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F01C020-EC33-4DDD-9856-36611BBBEA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F01C020-EC33-4DDD-9856-36611BBBEA2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{90ED2129-76E3-46E0-A96A-6FC2B8F8A040} = {C1A8765C-979C-474B-A04C-631C3636F066}
+		{9F01C020-EC33-4DDD-9856-36611BBBEA2E} = {C1A8765C-979C-474B-A04C-631C3636F066}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D66EC07-50FF-4DA0-B0CC-14AF0F0C0A94}

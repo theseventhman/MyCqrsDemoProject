@@ -1,0 +1,6 @@
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrs.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Ioc.csprojResolveAssemblyReference.cache
