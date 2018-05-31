@@ -3585,13 +3585,13 @@
     },
     "MyCqrsDemo.Domain/1.0.0": {
       "type": "project",
-      "path": "../FakeEquinox.Domain/MyCqrsDemo.Domain.csproj",
-      "msbuildProject": "../FakeEquinox.Domain/MyCqrsDemo.Domain.csproj"
+      "path": "../MyCqrsDemo.Domain/MyCqrsDemo.Domain.csproj",
+      "msbuildProject": "../MyCqrsDemo.Domain/MyCqrsDemo.Domain.csproj"
     },
     "MyCqrsDemo.Domain.Core/1.0.0": {
       "type": "project",
-      "path": "../FakeEquinox.Domain.Core/MyCqrsDemo.Domain.Core.csproj",
-      "msbuildProject": "../FakeEquinox.Domain.Core/MyCqrsDemo.Domain.Core.csproj"
+      "path": "../MyCqrsDemo.Domain.Core/MyCqrsDemo.Domain.Core.csproj",
+      "msbuildProject": "../MyCqrsDemo.Domain.Core/MyCqrsDemo.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3609,11 +3609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinox.Application\\MyCqrsDemo.Application.csproj",
+      "projectUniqueName": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.Application\\MyCqrsDemo.Application.csproj",
       "projectName": "MyCqrsDemo.Application",
-      "projectPath": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinox.Application\\MyCqrsDemo.Application.csproj",
+      "projectPath": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.Application\\MyCqrsDemo.Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinox.Application\\obj\\",
+      "outputPath": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -3634,8 +3634,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinox.Domain\\MyCqrsDemo.Domain.csproj": {
-              "projectPath": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinox.Domain\\MyCqrsDemo.Domain.csproj"
+            "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.Domain\\MyCqrsDemo.Domain.csproj": {
+              "projectPath": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.Domain\\MyCqrsDemo.Domain.csproj"
             }
           }
         }

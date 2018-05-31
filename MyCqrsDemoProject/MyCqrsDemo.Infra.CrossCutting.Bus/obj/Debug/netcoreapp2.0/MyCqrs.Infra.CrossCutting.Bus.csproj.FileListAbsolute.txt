@@ -1,0 +1,12 @@
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.csprojResolveAssemblyReference.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.csproj.CopyComplete
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\MyCqrs.Infra.CrossCutting.Bus.pdb

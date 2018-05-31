@@ -12,3 +12,17 @@ D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\De
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csproj.CopyComplete
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.dll
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csprojResolveAssemblyReference.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Infra.Data\obj\Debug\netcoreapp2.0\MyCqrsDemo.Infra.Data.csproj.CopyComplete

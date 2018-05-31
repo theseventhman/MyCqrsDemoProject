@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\MyCqrsDemo.WebApi\\MyCqrsDemo.WebApi.csproj",
+      "projectUniqueName": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.WebApi\\MyCqrsDemo.WebApi.csproj",
       "projectName": "MyCqrsDemo.WebApi",
-      "projectPath": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\MyCqrsDemo.WebApi\\MyCqrsDemo.WebApi.csproj",
+      "projectPath": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.WebApi\\MyCqrsDemo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net demos\\FakeEquinoxProject\\FakeEquinoxProject\\FakeEquinoxProject\\MyCqrsDemo.WebApi\\obj\\",
+      "outputPath": "D:\\asp.net demos\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemoProject\\MyCqrsDemo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

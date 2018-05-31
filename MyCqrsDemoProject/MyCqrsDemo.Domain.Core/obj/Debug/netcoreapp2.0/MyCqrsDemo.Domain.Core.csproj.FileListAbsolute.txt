@@ -7,3 +7,12 @@ D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\D
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.AssemblyInfo.cs
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.csprojResolveAssemblyReference.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Domain.Core\obj\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb

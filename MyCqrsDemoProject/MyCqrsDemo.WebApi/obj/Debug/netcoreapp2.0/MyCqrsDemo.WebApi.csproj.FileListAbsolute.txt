@@ -1,0 +1,11 @@
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\bin\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\bin\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.runtimeconfig.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\bin\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.runtimeconfig.dev.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\bin\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\bin\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.csprojResolveAssemblyReference.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.WebApi\obj\Debug\netcoreapp2.0\MyCqrsDemo.WebApi.pdb

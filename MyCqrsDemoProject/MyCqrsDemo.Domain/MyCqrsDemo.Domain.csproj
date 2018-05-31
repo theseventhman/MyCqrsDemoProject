@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FakeEquinox.Domain.Core\MyCqrsDemo.Domain.Core.csproj" />
+    <ProjectReference Include="..\MyCqrsDemo.Domain.Core\MyCqrsDemo.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,3 +4,17 @@ D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\D
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csproj.CoreCompileInputs.cache
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfoInputs.cache
 D:\MyExample\FakeEquinoxProject\FakeEquinoxProject\FakeEquinox.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csprojResolveAssemblyReference.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csproj.CoreCompileInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfoInputs.cache
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.AssemblyInfo.cs
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Application.deps.json
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Application.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Application.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\bin\Debug\netcoreapp2.0\MyCqrsDemo.Domain.Core.pdb
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.csproj.CopyComplete
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.dll
+D:\asp.net demos\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemoProject\MyCqrsDemo.Application\obj\Debug\netcoreapp2.0\MyCqrsDemo.Application.pdb
